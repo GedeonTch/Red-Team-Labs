@@ -2,7 +2,7 @@
 
 🇬🇧 [English](./README.md) | 🇫🇷 [Français](./README.fr.md)
 
-Offensive security labs built from scratch in isolated environments — demonstrating real attack techniques (MITM, network exploitation) with professional pentest reporting and actionable remediation.
+Offensive security labs built from scratch in isolated environments — demonstrating real attack techniques (MITM, network exploitation,web exploitation...) with professional pentest reporting and actionable remediation.
 
 ## Labs
 
