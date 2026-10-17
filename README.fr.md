@@ -2,7 +2,7 @@
 
 🇬🇧 [English](./README.md) | 🇫🇷 [Français](./README.fr.md)
 
-Labs de sécurité offensive construits de zéro dans des environnements isolés — démonstration de techniques d'attaque réelles (MITM, exploitation réseau) avec rapports de pentest professionnels et recommandations de remédiation actionnables.
+Labs de sécurité offensive construits de zéro dans des environnements isolés — démonstration de techniques d'attaque réelles (MITM, exploitation réseau,exploitation web...) avec rapports de pentest professionnels et recommandations de remédiation actionnables.
 
 ## Labs
 
